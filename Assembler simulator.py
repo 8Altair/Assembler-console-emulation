@@ -133,4 +133,4 @@ print("Akumulator:", akumulator)
 print(varijable)
 # for key, value in varijable:
 #     print(key, value, sep=": ")
-izlaz = input('Pritisnite "Enter" za izlaz.')
+izlaz = input('Pritisnite bilo koju tipku za izlaz.')
