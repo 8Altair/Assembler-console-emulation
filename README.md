@@ -1,6 +1,6 @@
-# Assembler-console-simulation
+# Assembler-console-emulation
 
-Assembler language simulation that parses txt file in a given format and produces basic operations to get the wanted result.
+Assembler language emulation that parses txt file in a given format and produces basic operations to get the wanted result.
 It parses single-address assembler code, with raw input commands (it doesn't use special version of assembler, just general variation of assembler).
 It can be modified to parse any kind of assembler code.
 
